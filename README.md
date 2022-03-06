@@ -2,7 +2,6 @@
 <div>
 <img src=(img/about.png)](https://t.me/Aniebotsupports)width="300" align="right" />
 <br/>
-<br/>
   
 
 - Name **Reidho Satria**
