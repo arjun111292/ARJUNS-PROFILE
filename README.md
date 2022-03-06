@@ -15,10 +15,7 @@
 
 - Understand 日本語, Bahasa, & English
 [<img alt="alt_text" width="300" align="right" src="img/arnd.png" />](https://www.instagram.com/a.r.j.u.n.p.r.a.d.e.e.p)
-<br/>
 [<img alt="alt_text" width="500" src="img/respz.png" />](https://github.com/arjun111292?tab=repositories)
-<br/>
-<br/>
   
 - 📗 [***Eilaluth/Ayano***](https://github.com/Eilaluth/Ayano) <br/>
   A multipurpose bot for anything with 69 commands!
