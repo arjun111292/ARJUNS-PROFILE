@@ -15,7 +15,7 @@
 
 - 𝙐𝙣𝙙𝙚𝙧𝙨𝙩𝙖𝙣𝙙 𝗘𝗻𝗴𝗹𝗶𝘀𝗵, 𝗛𝗶𝗻𝗱𝗶(𝗟𝗶𝘁𝘁𝗹𝗲 𝗯𝗶𝘁),𝗧𝗮𝗺𝗶𝗹, 𝗠𝗮𝗹𝗮𝘆𝗮𝗹𝗮𝗺 & 𝗛𝗮𝘂𝘀𝗮
 [<img alt="alt_text" width="300" align="right" src="img/arnd.png" />](https://www.instagram.com/a.r.j.u.n.p.r.a.d.e.e.p)
-[<img alt="alt_text" width="500" src="img/respz.png" />](https://github.com/arjun111292?tab=repositories)
+[<img alt="alt_text" width="400" src="img/respz.png" />](https://github.com/arjun111292?tab=repositories)
 
 Mᴀɪɴ Pʀᴏᴊᴇᴄᴛ =  [**Tᴇʟᴇɢʀᴀᴍ Aᴜᴛᴏ-Fɪʟᴛᴇʀ-Bᴏᴛs**](https://www.google.com/search?q=telegram+auto+filter+bots&oq=Telegram+Auto+filter+bot&aqs=chrome.0.69i59j69i57j69i60l3.6072j0j4&sourceid=chrome&ie=UTF-8)
 
