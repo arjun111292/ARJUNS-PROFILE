@@ -14,7 +14,7 @@
 - Have experience with **Photoshop** & **Premiere**
 
 - Understand 日本語, Bahasa, & English
-[<img alt="alt_text" width="300" src="img/arnd.png" />](https://www.instagram.com/a.r.j.u.n.p.r.a.d.e.e.p)
+[<img alt="alt_text" width="300" align="right" src="img/arnd.png" />](https://www.instagram.com/a.r.j.u.n.p.r.a.d.e.e.p)
 <br/>
 [<img alt="alt_text" width="500" src="img/respz.png" />](https://github.com/arjun111292?tab=repositories)
 <br/>
