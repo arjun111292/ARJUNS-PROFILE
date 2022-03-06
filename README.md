@@ -28,7 +28,7 @@
 - 📒 [***Eilaluth/Mocha***](https://github.com/Eilaluth/Mocha) <br/>
 Discord self-bot designed to bumping Disboard.org every 2 hours.
 
-[<img alt="alt_text" width="500" src="img/lisa.png" />](t.me/@Username_Not_Found_404_Error)
+[<img alt="alt_text" width="500" src="img/lisa.png" />](t.me/Username_Not_Found_404_Error)
 
 <sub> *“People with evil intent can do evil things without lying. And not all liars are evil.” – Elaina* </sub>
 <!--
