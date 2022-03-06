@@ -2,10 +2,7 @@
 
 [![Aniebots logo](img/about.png)](https://t.me/Aniebotsupports)
 
-<img src="./img/about.png" width="500" />
-<br/>
-<br/>
-  
+
 - Name **Reidho Satria**
 
 - Live in **Palembang, Indonesia**
