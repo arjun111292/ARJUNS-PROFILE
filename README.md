@@ -41,3 +41,6 @@ Discord self-bot designed to bumping Disboard.org every 2 hours.
 <img src="https://metrics.lecoq.io/Eilaluth?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&repositories=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&repositories.featured=Eilaluth%2FAyano%2CEilaluth%2FKyoko%2CEilaluth%2FKanna%2CEilaluth%2FHotaru%2CEilaluth%2FMocha&config.timezone=Asia%2FJakart"  />
 -->
 </div>
+
+
+<a href="https://stackoverflow.com/"><img src="./img/proffille.png></img></a>
