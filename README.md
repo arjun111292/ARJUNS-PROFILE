@@ -34,7 +34,7 @@
 Discord self-bot designed to bumping Disboard.org every 2 hours.
 
 <br/>
-<img src="./img/banner-elainaa.png" width="500" /><br/>
+<img src="./img/lisa.png" width="500" /><br/>
   
 <sub> *“People with evil intent can do evil things without lying. And not all liars are evil.” – Elaina* </sub>
 <!--
