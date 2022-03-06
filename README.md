@@ -1,7 +1,7 @@
 <div>
 <img src="./img/Profile-elaina.png" width="300" align="right" />
 <br/>
-<img src="./img/AboutMe-elaina.png" width="500" />
+<img src="./img/about.png" width="500" />
 <br/>
 <br/>
   
