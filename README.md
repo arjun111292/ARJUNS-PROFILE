@@ -1,5 +1,5 @@
-[<img alt="alt_text" width="300" align="right" src="img/proffille.png" />](https://www.google.com)
-[<img alt="alt_text" width="500" src="/img/about.png" />](https://www.google.com)
+[<img alt="alt_text" width="300" align="right" src="img/proffille.png" />](https://github.com/arjun111292)
+[<img alt="alt_text" width="500" src="/img/about.png" />](https://github.com/arjun111292)
 
 
  
@@ -14,9 +14,9 @@
 - Have experience with **Photoshop** & **Premiere**
 
 - Understand 日本語, Bahasa, & English
-<img src="./img/arnd.png" width="300" align="right" />
+[<img alt="alt_text" width="300" src="img/arnd.png" />](https://www.instagram.com/a.r.j.u.n.p.r.a.d.e.e.p)
 <br/>
-<img src="./img/respz.png" width="500" />
+[<img alt="alt_text" width="500" src="img/respz.png" />](https://github.com/arjun111292?tab=repositories)
 <br/>
 <br/>
   
