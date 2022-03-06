@@ -1,6 +1,5 @@
 <h1 align="center">A R J U N</h1>
-<div>
-(img/about.png)](https://t.me/Aniebotsupports)width="300" align="right"
+(img/about.png)](https://t.me/Aniebotsupports)
   
 
 - Name **Reidho Satria**
