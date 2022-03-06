@@ -1,7 +1,9 @@
-<h1 align="center">A R J U N</h1>
-[![Aniebots logo](img/about.png)](https://t.me/Aniebotsupports)
-  
-
+<div>
+<img src="./img/about.png" width="300" align="right" />
+<br/>
+<img src="./img/AboutMe-elaina.png" width="500" />
+<br/>
+<br/>
 - Name **Reidho Satria**
 
 - Live in **Palembang, Indonesia**
