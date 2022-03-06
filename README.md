@@ -3,30 +3,25 @@
 
 
  
-- Name **Reidho Satria**
+- 𝙽𝚊𝚖𝚎 **𝐀𝐫𝐣𝐮𝐧 𝐏𝐫𝐚𝐝𝐞𝐞𝐩**
 
-- Live in **Palembang, Indonesia**
+- 𝙻𝚒𝚟𝚎𝚜 𝚒𝚗 **𝗞𝗲𝗿𝗲𝗹𝗮, 𝗣𝗮𝘁𝗵𝗮𝗻𝗮𝗺𝘁𝗵𝗶𝘁𝘁𝗮**
 
-- Studying [***Computer And Network Engineering***](https://smkn4palembang.sch.id/)
+- 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐 [***𝟵𝗧𝗛***](https://www.google.com/search?q=SCHOOL&oq=SCHOOL&aqs=chrome..69i57j69i65j69i60j69i61j69i60l2j5.1271j0j9&sourceid=chrome&ie=UTF-8)
 
-- Good with **Javascript** & **NodeJS**
+- 𝙶𝚘𝚘𝚍 𝚠𝚒𝚝𝚑 **𝗣𝘆𝘁𝗵𝗼𝗻**
 
-- Have experience with **Photoshop** & **Premiere**
+- 𝙷𝚊𝚟𝚎 𝚎𝚡𝚙𝚎𝚛𝚒𝚎𝚗𝚌𝚎 𝚠𝚒𝚝𝚑 **𝗣𝗶𝘅𝗹𝗿** & **𝗙𝗶𝗹𝗺𝗼𝗿𝗮 𝟵**
 
-- Understand 日本語, Bahasa, & English
+- 𝙐𝙣𝙙𝙚𝙧𝙨𝙩𝙖𝙣𝙙 𝗘𝗻𝗴𝗹𝗶𝘀𝗵, 𝗛𝗶𝗻𝗱𝗶(𝗟𝗶𝘁𝘁𝗹𝗲 𝗯𝗶𝘁),𝗧𝗮𝗺𝗶𝗹, 𝗠𝗮𝗹𝗮𝘆𝗮𝗹𝗮𝗺 & 𝗛𝗮𝘂𝘀𝗮
 [<img alt="alt_text" width="300" align="right" src="img/arnd.png" />](https://www.instagram.com/a.r.j.u.n.p.r.a.d.e.e.p)
 [<img alt="alt_text" width="500" src="img/respz.png" />](https://github.com/arjun111292?tab=repositories)
-  
-- 📗 [***Eilaluth/Ayano***](https://github.com/Eilaluth/Ayano) <br/>
-  A multipurpose bot for anything with 69 commands!
-- 📘 [***Eilaluth/Kyoko***](https://github.com/Eilaluth/Kyoko) <br/>
-  Random Anime Pictures And Quotes Rest API, Toshino Kyoko.
-- 📙 [***Eilaluth/Kanna***](https://github.com/Eilaluth/Kanna) <br/>
-  Kanna is bot designed for Anti Raid and Badword, Kanna can automatically ban someone who trying to spamming/raiding your server in second!
-- 📕 [***Eilaluth/Hotaru***](https://github.com/Eilaluth/Hotaru) <br/>
-  Genshin daily login reminder Discord Bot
-- 📒 [***Eilaluth/Mocha***](https://github.com/Eilaluth/Mocha) <br/>
-Discord self-bot designed to bumping Disboard.org every 2 hours.
+
+Mᴀɪɴ Pʀᴏᴊᴇᴄᴛ = 🔰 **Tᴇʟᴇɢʀᴀᴍ Aᴜᴛᴏ-Fɪʟᴛᴇʀ-Bᴏᴛs**
+
+Cᴜʀʀᴇɴᴛ Bᴏᴛ = (JENNIE)[https://t.me/Ercel_England_Queen_bot]
+
+Nᴇᴡ Aᴅᴠᴀɴᴄᴇᴅ Bᴏᴛ(Iɴ ᴍᴀɪɴᴛᴇɴᴀɴᴄᴇ) =
 
 [<img alt="alt_text" width="500" src="img/lisa.png" />](https://t.me/Username_Not_Found_404_Error)
 
