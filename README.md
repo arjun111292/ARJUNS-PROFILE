@@ -17,7 +17,7 @@
 [<img alt="alt_text" width="300" align="right" src="img/arnd.png" />](https://www.instagram.com/a.r.j.u.n.p.r.a.d.e.e.p)
 [<img alt="alt_text" width="500" src="img/respz.png" />](https://github.com/arjun111292?tab=repositories)
 
-Mᴀɪɴ Pʀᴏᴊᴇᴄᴛ = 🔰 **Tᴇʟᴇɢʀᴀᴍ Aᴜᴛᴏ-Fɪʟᴛᴇʀ-Bᴏᴛs**
+Mᴀɪɴ Pʀᴏᴊᴇᴄᴛ = ⟁ **Tᴇʟᴇɢʀᴀᴍ Aᴜᴛᴏ-Fɪʟᴛᴇʀ-Bᴏᴛs** ⟁
 
 Cᴜʀʀᴇɴᴛ Bᴏᴛ = ⥏[Jᴇɴɴɪᴇ ](https://t.me/Ercel_England_Queen_bot)⥑
 
