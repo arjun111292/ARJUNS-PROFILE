@@ -19,9 +19,9 @@
 
 Mᴀɪɴ Pʀᴏᴊᴇᴄᴛ = 🔰 **Tᴇʟᴇɢʀᴀᴍ Aᴜᴛᴏ-Fɪʟᴛᴇʀ-Bᴏᴛs**
 
-Cᴜʀʀᴇɴᴛ Bᴏᴛ = (JENNIE)[https://t.me/Ercel_England_Queen_bot]
+Cᴜʀʀᴇɴᴛ Bᴏᴛ = [JENNIE](https://t.me/Ercel_England_Queen_bot)
 
-Nᴇᴡ Aᴅᴠᴀɴᴄᴇᴅ Bᴏᴛ(Iɴ ᴍᴀɪɴᴛᴇɴᴀɴᴄᴇ) =
+Nᴇᴡ Aᴅᴠᴀɴᴄᴇᴅ Bᴏᴛ(Iɴ ᴍᴀɪɴᴛᴇɴᴀɴᴄᴇ) = [CATHERINE](https://t.me/CT_NE_BOT)
 
 [<img alt="alt_text" width="500" src="img/lisa.png" />](https://t.me/Username_Not_Found_404_Error)
 
