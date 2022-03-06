@@ -1,9 +1,7 @@
-<div>
 [<img alt="alt_text" width="300" align="right" src="img/proffille.png" />](https://www.google.com/)
-<br/>
-<img src="./img/about.png" width="500" />
-<br/>
-<br/>
+[<img alt="alt_text" width="500" src="/img/about.png" />](https://www.google.com/
+
+
  
 - Name **Reidho Satria**
 
