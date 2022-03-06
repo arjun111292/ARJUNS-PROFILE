@@ -1,5 +1,5 @@
 <div>
-[<img src="./img/proffille.png" width="300" align="right" />(https://t.me/Aniebotsupports)]
+https://telegra.ph/file/ec537aab8b7e81c49c6f1.jpg
 <br/>
 <img src="./img/about.png" width="500" />
 <br/>
