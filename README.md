@@ -19,7 +19,9 @@
 
 Mᴀɪɴ Pʀᴏᴊᴇᴄᴛ =  [**Tᴇʟᴇɢʀᴀᴍ Aᴜᴛᴏ-Fɪʟᴛᴇʀ-Bᴏᴛs**](https://www.google.com/search?q=telegram+auto+filter+bots&oq=Telegram+Auto+filter+bot&aqs=chrome.0.69i59j69i57j69i60l3.6072j0j4&sourceid=chrome&ie=UTF-8)
 
-Tᴇʟᴇɢʀᴀᴍ Cʜᴀɴɴᴇʟ = [Channel](https://t.me/Archana_31_not_0ut)
+Lɪʙʀᴀʀʏ = [Pʏʀᴏɢʀᴀᴍ ](https://docs.pyrogram.org/)
+
+Tᴇʟᴇɢʀᴀᴍ Cʜᴀɴɴᴇʟ = [Cʜᴀɴɴᴇʟ](https://t.me/Archana_31_not_0ut)
 
 Cᴜʀʀᴇɴᴛ Bᴏᴛ = ⥏[Jᴇɴɴɪᴇ ](https://t.me/Ercel_England_Queen_bot)⥑
 
@@ -27,8 +29,6 @@ Nᴇᴡ Aᴅᴠᴀɴᴄᴇᴅ Bᴏᴛ(Iɴ ᴍᴀɪɴᴛᴇɴᴀɴᴄᴇ) = ⥏[C
 
 [<img alt="alt_text" width="500" src="img/lisa.png" />](https://t.me/Username_Not_Found_404_Error)
 
-<sub> *“People with evil intent can do evil things without lying. And not all liars are evil.” – Elaina* </sub>
-<!--
-<img src="https://metrics.lecoq.io/Eilaluth?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&repositories=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&repositories.featured=Eilaluth%2FAyano%2CEilaluth%2FKyoko%2CEilaluth%2FKanna%2CEilaluth%2FHotaru%2CEilaluth%2FMocha&config.timezone=Asia%2FJakart"  />
--->
+<sub> *“People with evil intent can do evil things without lying. And not all liars are evil.” – Arjun* </sub>
+
 </div>
