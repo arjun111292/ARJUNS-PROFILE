@@ -17,7 +17,7 @@
 [<img alt="alt_text" width="300" align="right" src="img/arnd.png" />](https://www.instagram.com/a.r.j.u.n.p.r.a.d.e.e.p)
 [<img alt="alt_text" width="500" src="img/respz.png" />](https://github.com/arjun111292?tab=repositories)
 
-Mᴀɪɴ Pʀᴏᴊᴇᴄᴛ =  [**Tᴇʟᴇɢʀᴀᴍ Aᴜᴛᴏ-Fɪʟᴛᴇʀ-Bᴏᴛs**](https://www.google.com/searchq=telegram+auto+filter+bots&oq=telegram+auto+filter+bots&aqs=chrome..69i57j69i61.5728j0j1&sourceid=chrome&ie=UTF-8)⟁
+Mᴀɪɴ Pʀᴏᴊᴇᴄᴛ =  [**Tᴇʟᴇɢʀᴀᴍ Aᴜᴛᴏ-Fɪʟᴛᴇʀ-Bᴏᴛs**](https://www.google.com/search?q=telegram+auto+filter+bots&oq=Telegram+Auto+filter+bot&aqs=chrome.0.69i59j69i57j69i60l3.6072j0j4&sourceid=chrome&ie=UTF-8)
 
 Tᴇʟᴇɢʀᴀᴍ Cʜᴀɴɴᴇʟ = [Channel](https://t.me/Archana_31_not_0ut)
 
