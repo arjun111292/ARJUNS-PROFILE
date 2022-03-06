@@ -1,6 +1,7 @@
-<div>
-https://telegra.ph/file/ec537aab8b7e81c49c6f1.jpg
-<br/>
+<h1 align="center">A R J U N</h1>
+
+[![Aniebots logo](https://telegra.ph/file/ec537aab8b7e81c49c6f1.jpg)](https://t.me/Aniebotsupports)
+
 <img src="./img/about.png" width="500" />
 <br/>
 <br/>
