@@ -43,4 +43,4 @@ Discord self-bot designed to bumping Disboard.org every 2 hours.
 </div>
 
 
-<a href="https://stackoverflow.com/"><img src="./img/proffille.png></img></a>
+<a href="https://stackoverflow.com/"><img src="img/proffille.png></img></a>
